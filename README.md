@@ -5,10 +5,10 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Bachelor of Computer Science (BCS) – 2014 Damascus University.
+- 🎓 &nbsp; Bachelor of Computer Science (BCS) – Damascus University.
 - 💼 &nbsp; Working as Software Engineer specializing in front-end and backend development. Hands-on experience in all stages of the development cycle for dynamic web projects.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
