@@ -37,10 +37,7 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Webstorm](https://img.shields.io/badge/-Webstorm-333333?style=flat&logo=webstorm-ide&logoColor=2C2255)
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=intelliJ-ide&logoColor=2C2255)
-- 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+
 
 <br/>
 
@@ -60,4 +57,4 @@
 <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
+⭐️ From [Mohannad Attal](https://github.com/Mohannadattal/Mohannad-Attal)
